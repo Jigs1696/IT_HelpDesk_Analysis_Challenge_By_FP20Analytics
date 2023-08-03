@@ -2,8 +2,9 @@
 Hi Everyone,
 Brief: The dataset shows the IT tickets data and Agents profiles for a fictitious company.
 This dashboard is to analyze IT service ticket data to build the organization's operational dashboards to measure the metrics overtime.This dashboard provides actionable insight into the organization's trends, usage patterns, systems behaviours, service level agreement etc which will help the company's IT department to stay up to date with industry developments.
-https://1drv.ms/i/s!ApTCNgn18HvJlHDb8Qi-66Ws7OLe?e=kziA1M
-https://1drv.ms/i/s!ApTCNgn18HvJlHGIxpYfcbke9h38?e=C68PHQ
+![image](https://github.com/Jigs1696/IT_HelpDesk_Analysis_Challenge_By_FP20Analytics/assets/121811703/7835675f-9448-478d-b645-7db392d9e62a)
+![image](https://github.com/Jigs1696/IT_HelpDesk_Analysis_Challenge_By_FP20Analytics/assets/121811703/be642b7b-800f-4cdb-a6e5-07d1602bbdc2)
+
 Insights:
 
 1.Total Agents 50.Total Employee 2000.Total Tickets 97498.
